@@ -1,0 +1,12 @@
+Feature,Importance
+num__Previous_CGPA,0.33589944
+num__Study_Hours_Per_Day,0.2840077
+num__Attendance_Pct,0.2544035
+cat__Major_Mathematics,0.020286249
+num__Sleep_Hours,0.01811894
+num__Social_Hours_Week,0.017984658
+cat__Major_Economics,0.015530331
+cat__Major_Engineering,0.01410904
+cat__Major_Business,0.014056883
+cat__Major_Computer Science,0.013614971
+cat__Major_Psychology,0.011988162

@@ -1,0 +1,1 @@
+Model .pkl files are generated automatically on first launch from data/student_data_cleaned.csv. The app follows the uploaded Colab notebook's feature sets and model-selection approach.

@@ -1,0 +1,4 @@
+,Accuracy,Precision_weighted,Recall_weighted,F1_weighted
+XGBoost,0.729,0.7329,0.729,0.7272
+Logistic Regression,0.723,0.7255,0.723,0.7196
+Random Forest,0.704,0.7067,0.704,0.6993

@@ -1,0 +1,3 @@
+Prediction_Date_Time,Prediction_Type,Student_ID,Gender,Age,Major,Attendance_Pct,Study_Hours_Per_Day,Previous_CGPA,Sleep_Hours,Social_Hours_Week,Prediction,Confidence
+2026-09-28 00:04:35,Grade Prediction,STU010501,Male,22,Information Technology,67.5,6.0,3.32,7.0,2.5,A,84.01
+2026-10-01 01:17:36,Grade Prediction,STU15001,Male,22,Psychology,69.5,6.0,2.8,5.0,1.0,C,86.37
