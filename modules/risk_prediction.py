@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -317,4 +316,3 @@ def render(data_dir, model_dir):
             st.error(
                 f"Risk prediction failed: {e}"
             )
-```
